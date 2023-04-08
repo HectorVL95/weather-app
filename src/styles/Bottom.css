@@ -1,0 +1,19 @@
+
+.properties{
+  width: 450px;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.1);
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-radius: 10px;
+}
+.value{
+  font-weight: 700;
+}
+.value, .description{
+  color: white;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
